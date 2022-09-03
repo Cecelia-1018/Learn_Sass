@@ -1,7 +1,9 @@
+@use './variables' as *; //only include this it doesn't work, refer to line 5
 
 /* Buttons */
 .btn-red {
-    background-color: #FF595E;
+    // background-color: variables.$btn-background; //then use "npm run dev" to restart but this format is not preferable
+    background-color: $btn-background; // u may use this format and refer to line 1
     color: white !important;
     border: 0;
     text-decoration: none;
