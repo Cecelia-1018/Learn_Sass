@@ -1,4 +1,4 @@
-@use './variables' as *; //only include this it doesn't work, refer to line 5
+@use '../abstracts/variables' as *; //only include this it doesn't work, refer to line 5
 
 /* Buttons */
 .btn-red {
