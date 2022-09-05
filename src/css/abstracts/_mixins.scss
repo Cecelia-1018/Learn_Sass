@@ -1,0 +1,14 @@
+//@mixin allow you to include css
+//function generally return the value
+@mixin button($value){
+    background-color: $value; // u may use this format and refer to line 1
+    color: white !important;
+    border: 0;
+    text-decoration: none;
+    color: #838EA4;
+    font-weight: 500;
+    font-size: .975rem;
+    padding: 1rem 1.25rem;
+    border-radius: 4px;
+    transition: all ease-in .2s;
+}

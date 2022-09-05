@@ -1,8 +1,9 @@
 @use '../abstracts/variables' as *; //only include this it doesn't work, refer to line 5
+@use '../abstracts/mixins' as *;
 
-@each $cursor in $cursors{
-  .cursor-#{$cursor} {
-    cursor: $cursor;
+@each $color, $value in $theme-colors{
+  .btn-#{$color} {
+   @include button($value);
   }
 }
 /* Buttons */
@@ -36,15 +37,15 @@
 //   color: white;
 // }
 
-// .btn-link {
-//   border: 0;
-//   text-decoration: none;
-//   background: transparent;
-//   color: #838EA4;
-//   font-weight: 500;
-//   font-size: .975rem;
-//   padding: 1rem 1.25rem;
-// }
+.btn-link {
+  border: 0;
+  text-decoration: none;
+  background: transparent;
+  color: #838EA4;
+  font-weight: 500;
+  font-size: .975rem;
+  padding: 1rem 1.25rem;
+}
   
 .btn-link:hover {
   color: #FF595E;
