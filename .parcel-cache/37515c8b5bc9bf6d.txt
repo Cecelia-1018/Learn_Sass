@@ -12,10 +12,10 @@
 71/home/cecelia/Documents/GitHub/Learn_Sass/src/css/components/_hero.scss1662193295501369399 0
 57/home/cecelia/Documents/GitHub/Learn_Sass/src/favicon.png1641644817000000000 0
 56/home/cecelia/Documents/GitHub/Learn_Sass/src/js/main.js1662180751386734452 0
-69/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.8c1c22dc.css.map1662193479051045755 0
-64/home/cecelia/Documents/GitHub/Learn_Sass/dist/logo.cd13699a.svg1662191448667886336 0
-57/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.html1662191448667886336 0
-46/home/cecelia/Documents/GitHub/Learn_Sass/dist1662193479051045755 1
+69/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.8c1c22dc.css.map1662356324084843482 0
+64/home/cecelia/Documents/GitHub/Learn_Sass/dist/logo.cd13699a.svg1662356324092843466 0
+57/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.html1662356324092843466 0
+46/home/cecelia/Documents/GitHub/Learn_Sass/dist1662356324092843466 1
 54/home/cecelia/Documents/GitHub/Learn_Sass/package.json1662182926286047592 0
 74/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/is-extglob/index.js1662182924934048955 0
 75/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/is-extglob/README.md1662182924930048960 0
@@ -99,7 +99,7 @@
 72/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/logger1662182924954048935 1
 78/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/options.d.ts1662182924954048935 0
 90/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/value/argument_list.d.ts1662182924954048935 0
-67/home/cecelia/Documents/GitHub/Learn_Sass/dist/favicon.0f1069a7.png1662191448647886263 0
+67/home/cecelia/Documents/GitHub/Learn_Sass/dist/favicon.0f1069a7.png1662356324080843489 0
 84/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/value/boolean.d.ts1662182924954048935 0
 83/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/value/string.d.ts1662182924954048935 0
 80/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/sass/types/exception.d.ts1662182924954048935 0
@@ -636,7 +636,7 @@
 89/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/openInBrowser.js1662180424910565806 0
 82/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/schema.js1662180424914565983 0
 99/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/replaceBundleReferences.js1662180424914565983 0
-68/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.18dbc454.js.map1662191448655886293 0
+68/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.18dbc454.js.map1662356324084843482 0
 84/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/debounce.js1662180424890564913 0
 90/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/parseCSSImport.js1662180424910565806 0
 86/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/src/getRootDir.js1662180424890564913 0
@@ -662,7 +662,7 @@
 94/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/test/prettifyTime.test.js1662180424910565806 0
 108/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/test/input/sourcemap/source-root.js.map1662180424934566876 0
 107/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1662180424910565806 0
-65/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.8c1c22dc.css1662193479047045720 0
+65/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.8c1c22dc.css1662356324080843489 0
 99/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/utils/test/input/sourcemap/inline.js1662180424910565806 0
 83/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/abortcontroller-polyfill/src1662180420882385817 1
 83/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/node-gyp-build/build-test.js1662180420642375062 0
@@ -706,7 +706,7 @@
 95/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/codeframe/test/codeframe.test.js1662180423602507452 0
 98/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@swc/helpers/src/_await_async_generator.mjs1662180420958389224 0
 72/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/codeframe1662180423602507452 1
-64/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.18dbc454.js1662191448651886279 0
+64/home/cecelia/Documents/GitHub/Learn_Sass/dist/index.18dbc454.js1662356324080843489 0
 88/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/packager-raw/package.json1662180423882519955 0
 111/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/runtime-react-refresh/src/ReactRefreshRuntime.js1662180422706467428 0
 97/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/runtime-react-refresh/package.json1662180422706467428 0
@@ -2454,7 +2454,7 @@
 96/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/input-color.js1662180421094395314 0
 97/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/script-async.js1662180421134397104 0
 72/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/yaml/browser/dist1662180420918387431 1
-68/home/cecelia/Documents/GitHub/Learn_Sass/dist/banner-1.55105079.jpg1662191448647886263 0
+68/home/cecelia/Documents/GitHub/Learn_Sass/dist/banner-1.55105079.jpg1662356324080843489 0
 86/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/regions/MV.js1662180421114396209 0
 82/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/@parcel/events/src/index.js1662180425074573115 0
 106/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/htmlnano/lib/modules/collapseAttributeWhitespace.js1662180420746379722 0
@@ -2671,7 +2671,7 @@
 97/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/css-any-link.js1662180421014391733 0
 101/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/css-mixblendmode.js1662180421042392986 0
 85/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/regenerator-runtime/runtime.js1662180420542370580 0
-74/home/cecelia/Documents/GitHub/Learn_Sass/src/css/components/_buttons.scss1662191433043830246 0
+74/home/cecelia/Documents/GitHub/Learn_Sass/src/css/components/_buttons.scss1662194926331690629 0
 93/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/jpeg2000.js1662180421098395493 0
 104/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/msgpackr-extract/src/.vs/src/v16/Browse.VC.db-shm1662180420806382412 0
 97/home/cecelia/Documents/GitHub/Learn_Sass/node_modules/caniuse-lite/data/features/transforms2d.js1662180421150397820 0
