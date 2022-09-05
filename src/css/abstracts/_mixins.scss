@@ -11,4 +11,8 @@
     padding: 1rem 1.25rem;
     border-radius: 4px;
     transition: all ease-in .2s;
+
+    &:hover {
+      opacity: .2;
+    }
 }
